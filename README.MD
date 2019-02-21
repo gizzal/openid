@@ -1,0 +1,1 @@
+Check https://www.scottbrady91.com/OpenID-Connect/Getting-Started-with-oidc-provider
